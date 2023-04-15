@@ -12,3 +12,7 @@ Loved it. So I built it in [Processing](https://processing.org/).
 ### mine
 
 ![Highway](images/highway.png)
+
+### animated
+
+[Highway](movie/highway.mov)
