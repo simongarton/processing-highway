@@ -16,7 +16,3 @@ Loved it. So I built it in [Processing](https://processing.org/).
 ### animated
 
 [Highway](movie/highway.mov)
-
-## Highway 2
-
-There's a second version as well, which has cars that speed up / slow down, but don't crash into each other. 

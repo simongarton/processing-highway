@@ -50,9 +50,6 @@ class Vehicle {
   
   void renderBatmobile() {
       fill(0, 0, 0);
-      if (life % 50 < 25) {
-        fill(200, 0, 0);
-      }
       stroke(250, 250, 250);
       rect(x - (size/2), this.y - (laneWidth / 2) + GAP, size, laneWidth - (2 * GAP));
   }
